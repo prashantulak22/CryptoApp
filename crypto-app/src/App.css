@@ -37,7 +37,7 @@ a:hover {
       padding: 20px;
 }
 
-.nav-container {
+.navbar-container {
       position: fixed;
       left: 0;
       margin: 10px;
@@ -114,7 +114,7 @@ a:hover {
             margin-right: 10px;
       }
 
-      .nav-container {
+      .navbar-container {
             height: 8vh;
             position: fixed;
             width: 100%;

@@ -23,10 +23,16 @@ const App = () => {
             </Routes>
           </div>
         </Layout>
-      </div>
-      <div className='footer'>
+        <div className='footer'>
+          <Typography.Title level={5} style={{ color: "white", textAlign: 'center' }}>
+            Crypto<br />
+            All right reserved.
+          </Typography.Title>
 
+
+        </div>
       </div>
+
     </div>
   )
 }

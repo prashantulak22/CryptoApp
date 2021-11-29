@@ -6,7 +6,7 @@ import logo from '../images/logo.png'
 
 const Navbar = () => {
       return (
-            <div className='navbar-conatiner'>
+            <div className='navbar-container'>
                   <div className="logo-container">
                         <Avatar src={logo} />
                         <Typography.Title level={2} className='logo'>
